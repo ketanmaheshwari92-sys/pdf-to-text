@@ -1,0 +1,4 @@
+name = "pdf-to-text"
+main = "pdf-to-text.js"
+compatibility_date = "2024-01-01"
+workers_dev = true
